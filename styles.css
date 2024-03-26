@@ -1,3 +1,16 @@
 body {
     font-family: system-ui;
 }
+
+.page_inner {
+    margin: 0;
+    padding: 0 120px;
+}
+
+.main_width_limit {
+    max-width: 800px;
+}
+
+.main {
+    margin: auto;
+}
